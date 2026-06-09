@@ -6,8 +6,8 @@ Repositori ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Perangkat Ber
 
 ## 👤 Identitas Mahasiswa
 * **Nama:** Abdullah Tsaqif Cakrawibowo
-* **NIM:** [Isi NIM Anda di Sini, contoh: 220911xxxx]
-* **Kelas:** [Isi Kelas Anda di Sini, contoh: TI-5A]
+* **NIM:** 452024611036
+* **Kelas:** TI 5 A1
 * **Proyek:** Unscramble App (Permainan Acak Kata)
 
 ---
