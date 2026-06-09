@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Unscramble App</string>
+    <string name="word_count">Kata ke-%1$d dari 10</string>
+    <string name="score">Skor: %1$d</string>
+    <string name="submit">Kirim</string>
+    <string name="skip">Lewati</string>
+    <string name="game_over_title">Permainan Selesai!</string>
+    <string name="game_over_message">Skor akhir Anda adalah %1$d.</string>
+    <string name="play_again">Main Lagi</string>
+    <string name="enter_your_word">Masukkan tebakan kata...</string>
+    <string name="wrong_guess">Salah! Coba lagi.</string>
 </resources>
